@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coopersIndieApp
-- 👀 I’m interested in React Native and React
-- 🌱 I’m currently learning Mobile App development 
+- 👀 I’m interested in Mobile App development  
+- 🌱 I’m currently learning React Native and React
 - 💞️ I’m looking to collaborate on Building indie app
 - 📫 How to reach me : coopersindieapp@gmail.com
 
